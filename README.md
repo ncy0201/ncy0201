@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently studying in Anhui University.
+- 🌱 I’m currently studying at Anhui University.
 <!--
 **ncy0201/ncy0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
