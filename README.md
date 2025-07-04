@@ -14,5 +14,5 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" style="display: inline-block;"/>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ncy0201)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ncy0201)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncy0201)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ncy0201)
