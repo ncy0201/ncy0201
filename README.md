@@ -3,7 +3,7 @@
 <h2 align="center">Continuously Learning</h2>
 
 <p align="center">
-    <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="50%" alt=""/>
+    <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="30%" alt=""/>
 </p>
 
 <div align="center">
@@ -15,3 +15,4 @@
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ncy0201)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ncy0201)
