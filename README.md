@@ -13,3 +13,5 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" style="display: inline-block;"/>
 </div>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ncy0201)
